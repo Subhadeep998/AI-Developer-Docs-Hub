@@ -11,6 +11,9 @@ import re
 import sys
 import urllib.request
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import livecard  # noqa: E402
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TODAY = dt.date.today()
 
@@ -94,6 +97,22 @@ def main():
         s = re.sub(r"<!-- releases:start -->.*?<!-- releases:end -->",
                    "<!-- releases:start -->\n" + block(repos, data) + "<!-- releases:end -->", s, flags=re.S)
         open(p, "w", encoding="utf-8").write(s)
+    # live stats + README highlights
+    owner = {repo: label for _, (label, repos) in TRACKED.items() for repo in repos}
+    recent = sorted(((r[0]["date"], repo, r[0]) for repo, r in data.items() if r and r[0]["date"] and repo in owner),
+                    reverse=True)
+    week_ago = (TODAY - dt.timedelta(days=7)).isoformat()
+    livecard.render(os.path.join(ROOT, "assets", "live-stats.svg"),
+                    [(len(owner), "projects tracked"), (sum(1 for d, _, _ in recent if d >= week_ago), "released this week"),
+                     (14, "providers mapped"), (2, "deep guides")], "#F2463A")
+    rows = ["| Released | Project | Version | Provider |", "|:--|:--|:--|:--|"]
+    rows += [f"| {d} | [{repo}](https://github.com/{repo}) | [**{r['tag']}**]({r['url']}) | {owner[repo]} |" for d, repo, r in recent[:8]]
+    hl = "\n".join(rows) if recent else "_Highlights appear after the next daily run._"
+    p = os.path.join(ROOT, "README.md")
+    s = open(p, encoding="utf-8").read()
+    s = re.sub(r"<!-- highlights:start -->.*?<!-- highlights:end -->",
+               "<!-- highlights:start -->\n" + hl + "\n<!-- highlights:end -->", s, flags=re.S)
+    open(p, "w", encoding="utf-8").write(s)
     print("RELEASES.md written.")
 
 
