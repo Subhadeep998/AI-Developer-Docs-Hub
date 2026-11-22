@@ -76,4 +76,4 @@
 [AI at Meta blog](https://ai.meta.com/blog/) · [Meta Engineering blog](https://engineering.fb.com) · [Meta AI developer newsletter](https://developer.meta.com/ai/subscribe/) · [PyTorch blog](https://pytorch.org/blog/)
 
 ---
-<sub>Unofficial index curated by <a href="https://github.com/Subhadeep998">@Subhadeep998</a>. Not affiliated with Meta. Spotted a moved link? <a href="../../../issues">Open an issue</a>.</sub>
+<sub>Unofficial index curated by <a href="https://github.com/Subhadeep998">@Subhadeep998</a>. Not affiliated with Meta. Spotted a moved link? <a href="https://github.com/Subhadeep998/AI-Developer-Docs-Hub/issues">Open an issue</a>.</sub>

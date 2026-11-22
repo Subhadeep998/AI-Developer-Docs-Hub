@@ -107,4 +107,4 @@ flowchart LR
 [Help Center](https://support.claude.com) · [API status](https://status.claude.com) · [Discord community](https://www.anthropic.com/discord)
 
 ---
-<sub>Unofficial index curated by <a href="https://github.com/Subhadeep998">@Subhadeep998</a>. Not affiliated with Anthropic. Spotted a moved link? <a href="../../../issues">Open an issue</a>.</sub>
+<sub>Unofficial index curated by <a href="https://github.com/Subhadeep998">@Subhadeep998</a>. Not affiliated with Anthropic. Spotted a moved link? <a href="https://github.com/Subhadeep998/AI-Developer-Docs-Hub/issues">Open an issue</a>.</sub>
