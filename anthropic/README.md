@@ -10,7 +10,16 @@
 ## 🚀 Latest releases (auto-updated daily)
 
 <!-- releases:start -->
-_Release data fills on the next daily run._
+| Project | Latest | Released | Earlier |
+|:--|:--|:--|:--|
+| [anthropics/anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python) | [**v2.12.0**](https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.12.0) | 2026-11-20 | [v2.11.0](https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.11.0) · [v2.10.0](https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.10.0) |
+| [anthropics/anthropic-sdk-typescript](https://github.com/anthropics/anthropic-sdk-typescript) | [**sdk-v1.12.0**](https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.12.0) | 2026-11-20 | [bedrock-sdk-v1.1.3](https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v1.1.3) · [sdk-v1.11.0](https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.11.0) |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | [**v2.1.330**](https://github.com/anthropics/claude-code/releases/tag/v2.1.330) | 2026-11-20 | [v2.1.329](https://github.com/anthropics/claude-code/releases/tag/v2.1.329) · [v2.1.328](https://github.com/anthropics/claude-code/releases/tag/v2.1.328) |
+| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | [**v0.2.187**](https://github.com/anthropics/claude-agent-sdk-python/releases/tag/v0.2.187) | 2026-11-20 | [v0.2.186](https://github.com/anthropics/claude-agent-sdk-python/releases/tag/v0.2.186) · [v0.2.185](https://github.com/anthropics/claude-agent-sdk-python/releases/tag/v0.2.185) |
+| [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) | [**v2.3.0**](https://github.com/modelcontextprotocol/python-sdk/releases/tag/v2.3.0) | 2026-10-02 | [v2.2.0](https://github.com/modelcontextprotocol/python-sdk/releases/tag/v2.2.0) · [v1.30.0](https://github.com/modelcontextprotocol/python-sdk/releases/tag/v1.30.0) |
+| [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) | [**v2.4.0**](https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/v2.4.0) | 2026-10-23 | [1.32.2](https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/1.32.2) · [@modelcontextprotocol/server@2.4.0](https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/%40modelcontextprotocol/server%402.4.0) |
+
+<sub>Auto-updated 2026-11-22 from the GitHub API · 🧪 = pre-release</sub>
 <!-- releases:end -->
 
 **Official changelogs** — [Claude Platform release notes](https://platform.claude.com/docs/en/release-notes/overview) · [Claude Code CHANGELOG](https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md) · [Claude apps release notes](https://support.claude.com/en/articles/12138966-release-notes)
