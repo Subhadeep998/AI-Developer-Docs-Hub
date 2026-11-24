@@ -74,7 +74,7 @@
 |:--|:--|:--|:--|
 | [huggingface/transformers](https://github.com/huggingface/transformers) | [**v5.24.0**](https://github.com/huggingface/transformers/releases/tag/v5.24.0) | 2026-11-21 | [v5.23.0](https://github.com/huggingface/transformers/releases/tag/v5.23.0) · [v5.22.2](https://github.com/huggingface/transformers/releases/tag/v5.22.2) |
 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | [**1.2.24**](https://github.com/langchain-ai/langgraph/releases/tag/1.2.24) | 2026-11-20 | [1.2.23](https://github.com/langchain-ai/langgraph/releases/tag/1.2.23) · [prebuilt==1.1.3](https://github.com/langchain-ai/langgraph/releases/tag/prebuilt%3D%3D1.1.3) |
-| [ollama/ollama](https://github.com/ollama/ollama) | [**v0.40.18-rc0**](https://github.com/ollama/ollama/releases/tag/v0.40.18-rc0) 🧪 | 2026-11-24 | [v0.40.17](https://github.com/ollama/ollama/releases/tag/v0.40.17) · [v0.40.16](https://github.com/ollama/ollama/releases/tag/v0.40.16) |
+| [ollama/ollama](https://github.com/ollama/ollama) | [**v0.40.18**](https://github.com/ollama/ollama/releases/tag/v0.40.18) | 2026-11-24 | [v0.40.17](https://github.com/ollama/ollama/releases/tag/v0.40.17) · [v0.40.16](https://github.com/ollama/ollama/releases/tag/v0.40.16) |
 | [vllm-project/vllm](https://github.com/vllm-project/vllm) | [**v0.34.0**](https://github.com/vllm-project/vllm/releases/tag/v0.34.0) | 2026-11-16 | [v0.33.0rc3](https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc3) · [v0.32.0](https://github.com/vllm-project/vllm/releases/tag/v0.32.0) |
 
 <sub>Auto-updated 2026-11-24 from the GitHub API · 🧪 = pre-release</sub>
