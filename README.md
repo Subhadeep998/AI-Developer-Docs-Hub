@@ -28,14 +28,14 @@
 <!-- highlights:start -->
 | Released | Project | Version | Provider |
 |:--|:--|:--|:--|
+| 2026-11-24 | [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | [**v0.26.0**](https://github.com/openai/openai-agents-python/releases/tag/v0.26.0) | OpenAI |
+| 2026-11-24 | [ollama/ollama](https://github.com/ollama/ollama) | [**v0.40.18-rc0**](https://github.com/ollama/ollama/releases/tag/v0.40.18-rc0) | Open-source ecosystem |
+| 2026-11-23 | [openai/openai-python](https://github.com/openai/openai-python) | [**v3.58.0**](https://github.com/openai/openai-python/releases/tag/v3.58.0) | OpenAI |
+| 2026-11-23 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | [**v2.1.331**](https://github.com/anthropics/claude-code/releases/tag/v2.1.331) | Anthropic |
+| 2026-11-23 | [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | [**v0.2.188**](https://github.com/anthropics/claude-agent-sdk-python/releases/tag/v0.2.188) | Anthropic |
+| 2026-11-23 | [anthropics/anthropic-sdk-typescript](https://github.com/anthropics/anthropic-sdk-typescript) | [**sdk-v1.13.0**](https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.13.0) | Anthropic |
+| 2026-11-23 | [anthropics/anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python) | [**v2.13.0**](https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.13.0) | Anthropic |
 | 2026-11-21 | [huggingface/transformers](https://github.com/huggingface/transformers) | [**v5.24.0**](https://github.com/huggingface/transformers/releases/tag/v5.24.0) | Open-source ecosystem |
-| 2026-11-20 | [openai/openai-python](https://github.com/openai/openai-python) | [**v3.57.0**](https://github.com/openai/openai-python/releases/tag/v3.57.0) | OpenAI |
-| 2026-11-20 | [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | [**v1.0.0-alpha.1**](https://github.com/openai/openai-agents-python/releases/tag/v1.0.0-alpha.1) | OpenAI |
-| 2026-11-20 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | [**1.2.24**](https://github.com/langchain-ai/langgraph/releases/tag/1.2.24) | Open-source ecosystem |
-| 2026-11-20 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | [**v2.1.330**](https://github.com/anthropics/claude-code/releases/tag/v2.1.330) | Anthropic |
-| 2026-11-20 | [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | [**v0.2.187**](https://github.com/anthropics/claude-agent-sdk-python/releases/tag/v0.2.187) | Anthropic |
-| 2026-11-20 | [anthropics/anthropic-sdk-typescript](https://github.com/anthropics/anthropic-sdk-typescript) | [**sdk-v1.12.0**](https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.12.0) | Anthropic |
-| 2026-11-20 | [anthropics/anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python) | [**v2.12.0**](https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.12.0) | Anthropic |
 <!-- highlights:end -->
 
 <p align="right"><a href="RELEASES.md"><b>All releases →</b></a></p>

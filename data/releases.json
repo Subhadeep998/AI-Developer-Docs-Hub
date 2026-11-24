@@ -1,6 +1,12 @@
 {
  "anthropics/anthropic-sdk-python": [
   {
+   "tag": "v2.13.0",
+   "date": "2026-11-23",
+   "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.13.0",
+   "pre": false
+  },
+  {
    "tag": "v2.12.0",
    "date": "2026-11-20",
    "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.12.0",
@@ -11,15 +17,15 @@
    "date": "2026-11-19",
    "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.11.0",
    "pre": false
-  },
-  {
-   "tag": "v2.10.0",
-   "date": "2026-11-17",
-   "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.10.0",
-   "pre": false
   }
  ],
  "anthropics/anthropic-sdk-typescript": [
+  {
+   "tag": "sdk-v1.13.0",
+   "date": "2026-11-23",
+   "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.13.0",
+   "pre": false
+  },
   {
    "tag": "sdk-v1.12.0",
    "date": "2026-11-20",
@@ -31,15 +37,15 @@
    "date": "2026-11-20",
    "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v1.1.3",
    "pre": false
-  },
-  {
-   "tag": "sdk-v1.11.0",
-   "date": "2026-11-19",
-   "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.11.0",
-   "pre": false
   }
  ],
  "anthropics/claude-code": [
+  {
+   "tag": "v2.1.331",
+   "date": "2026-11-23",
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.331",
+   "pre": false
+  },
   {
    "tag": "v2.1.330",
    "date": "2026-11-20",
@@ -51,15 +57,15 @@
    "date": "2026-11-19",
    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.329",
    "pre": false
-  },
-  {
-   "tag": "v2.1.328",
-   "date": "2026-11-19",
-   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.328",
-   "pre": false
   }
  ],
  "anthropics/claude-agent-sdk-python": [
+  {
+   "tag": "v0.2.188",
+   "date": "2026-11-23",
+   "url": "https://github.com/anthropics/claude-agent-sdk-python/releases/tag/v0.2.188",
+   "pre": false
+  },
   {
    "tag": "v0.2.187",
    "date": "2026-11-20",
@@ -70,12 +76,6 @@
    "tag": "v0.2.186",
    "date": "2026-11-19",
    "url": "https://github.com/anthropics/claude-agent-sdk-python/releases/tag/v0.2.186",
-   "pre": false
-  },
-  {
-   "tag": "v0.2.185",
-   "date": "2026-11-19",
-   "url": "https://github.com/anthropics/claude-agent-sdk-python/releases/tag/v0.2.185",
    "pre": false
   }
  ],
@@ -361,6 +361,12 @@
  ],
  "openai/openai-python": [
   {
+   "tag": "v3.58.0",
+   "date": "2026-11-23",
+   "url": "https://github.com/openai/openai-python/releases/tag/v3.58.0",
+   "pre": false
+  },
+  {
    "tag": "v3.57.0",
    "date": "2026-11-20",
    "url": "https://github.com/openai/openai-python/releases/tag/v3.57.0",
@@ -371,31 +377,25 @@
    "date": "2026-11-19",
    "url": "https://github.com/openai/openai-python/releases/tag/v3.56.0",
    "pre": false
-  },
-  {
-   "tag": "v3.55.1",
-   "date": "2026-11-18",
-   "url": "https://github.com/openai/openai-python/releases/tag/v3.55.1",
-   "pre": false
   }
  ],
  "openai/openai-agents-python": [
   {
-   "tag": "v1.0.0-alpha.1",
-   "date": "2026-11-20",
-   "url": "https://github.com/openai/openai-agents-python/releases/tag/v1.0.0-alpha.1",
-   "pre": true
-  },
-  {
-   "tag": "v0.25.0",
-   "date": "2026-11-18",
-   "url": "https://github.com/openai/openai-agents-python/releases/tag/v0.25.0",
+   "tag": "v0.26.0",
+   "date": "2026-11-24",
+   "url": "https://github.com/openai/openai-agents-python/releases/tag/v0.26.0",
    "pre": false
   },
   {
-   "tag": "v0.24.0-alpha.8",
-   "date": "2026-11-16",
-   "url": "https://github.com/openai/openai-agents-python/releases/tag/v0.24.0-alpha.8",
+   "tag": "v1.0.0-alpha.2",
+   "date": "2026-11-23",
+   "url": "https://github.com/openai/openai-agents-python/releases/tag/v1.0.0-alpha.2",
+   "pre": true
+  },
+  {
+   "tag": "v1.0.0-alpha.1",
+   "date": "2026-11-20",
+   "url": "https://github.com/openai/openai-agents-python/releases/tag/v1.0.0-alpha.1",
    "pre": true
   }
  ],
@@ -481,6 +481,12 @@
  ],
  "ollama/ollama": [
   {
+   "tag": "v0.40.18-rc0",
+   "date": "2026-11-24",
+   "url": "https://github.com/ollama/ollama/releases/tag/v0.40.18-rc0",
+   "pre": true
+  },
+  {
    "tag": "v0.40.17",
    "date": "2026-11-10",
    "url": "https://github.com/ollama/ollama/releases/tag/v0.40.17",
@@ -490,12 +496,6 @@
    "tag": "v0.40.16",
    "date": "2026-11-09",
    "url": "https://github.com/ollama/ollama/releases/tag/v0.40.16",
-   "pre": false
-  },
-  {
-   "tag": "v0.40.15",
-   "date": "2026-11-03",
-   "url": "https://github.com/ollama/ollama/releases/tag/v0.40.15",
    "pre": false
   }
  ],
