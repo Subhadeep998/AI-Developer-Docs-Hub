@@ -28,6 +28,7 @@
 <!-- highlights:start -->
 | Released | Project | Version | Provider |
 |:--|:--|:--|:--|
+| 2026-11-25 | [microsoft/vscode](https://github.com/microsoft/vscode) | [**1.148.0**](https://github.com/microsoft/vscode/releases/tag/1.148.0) | Microsoft |
 | 2026-11-25 | [google/adk-python](https://github.com/google/adk-python) | [**v2.15.1**](https://github.com/google/adk-python/releases/tag/v2.15.1) | Google |
 | 2026-11-25 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | [**v2.1.332**](https://github.com/anthropics/claude-code/releases/tag/v2.1.332) | Anthropic |
 | 2026-11-25 | [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | [**v0.2.189**](https://github.com/anthropics/claude-agent-sdk-python/releases/tag/v0.2.189) | Anthropic |
@@ -35,7 +36,6 @@
 | 2026-11-24 | [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | [**v0.26.0**](https://github.com/openai/openai-agents-python/releases/tag/v0.26.0) | OpenAI |
 | 2026-11-24 | [ollama/ollama](https://github.com/ollama/ollama) | [**v0.40.18**](https://github.com/ollama/ollama/releases/tag/v0.40.18) | Open-source ecosystem |
 | 2026-11-24 | [huggingface/transformers](https://github.com/huggingface/transformers) | [**v5.24.1**](https://github.com/huggingface/transformers/releases/tag/v5.24.1) | Open-source ecosystem |
-| 2026-11-24 | [anthropics/anthropic-sdk-typescript](https://github.com/anthropics/anthropic-sdk-typescript) | [**sdk-v1.14.0**](https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.14.0) | Anthropic |
 <!-- highlights:end -->
 
 <p align="right"><a href="RELEASES.md"><b>All releases →</b></a></p>

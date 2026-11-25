@@ -46,7 +46,7 @@
 |:--|:--|:--|:--|
 | [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) | [**dotnet-1.82.0**](https://github.com/microsoft/semantic-kernel/releases/tag/dotnet-1.82.0) | 2026-11-07 | [python-1.47.0](https://github.com/microsoft/semantic-kernel/releases/tag/python-1.47.0) · [python-1.46.0](https://github.com/microsoft/semantic-kernel/releases/tag/python-1.46.0) |
 | [microsoft/autogen](https://github.com/microsoft/autogen) | [**python-v0.7.5**](https://github.com/microsoft/autogen/releases/tag/python-v0.7.5) | 2025-09-30 | [python-v0.7.4](https://github.com/microsoft/autogen/releases/tag/python-v0.7.4) · [python-v0.7.3](https://github.com/microsoft/autogen/releases/tag/python-v0.7.3) |
-| [microsoft/vscode](https://github.com/microsoft/vscode) | [**1.147.0**](https://github.com/microsoft/vscode/releases/tag/1.147.0) | 2026-11-18 | [1.146.0](https://github.com/microsoft/vscode/releases/tag/1.146.0) · [1.145.3](https://github.com/microsoft/vscode/releases/tag/1.145.3) |
+| [microsoft/vscode](https://github.com/microsoft/vscode) | [**1.148.0**](https://github.com/microsoft/vscode/releases/tag/1.148.0) | 2026-11-25 | [1.147.0](https://github.com/microsoft/vscode/releases/tag/1.147.0) · [1.146.0](https://github.com/microsoft/vscode/releases/tag/1.146.0) |
 
 <sub>Auto-updated 2026-11-25 from the GitHub API · 🧪 = pre-release</sub>
 
