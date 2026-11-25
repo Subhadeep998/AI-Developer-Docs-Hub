@@ -1,6 +1,12 @@
 {
  "anthropics/anthropic-sdk-python": [
   {
+   "tag": "v2.14.0",
+   "date": "2026-11-24",
+   "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.14.0",
+   "pre": false
+  },
+  {
    "tag": "v2.13.0",
    "date": "2026-11-23",
    "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.13.0",
@@ -11,15 +17,15 @@
    "date": "2026-11-20",
    "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.12.0",
    "pre": false
-  },
-  {
-   "tag": "v2.11.0",
-   "date": "2026-11-19",
-   "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.11.0",
-   "pre": false
   }
  ],
  "anthropics/anthropic-sdk-typescript": [
+  {
+   "tag": "sdk-v1.14.0",
+   "date": "2026-11-24",
+   "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.14.0",
+   "pre": false
+  },
   {
    "tag": "sdk-v1.13.0",
    "date": "2026-11-23",
@@ -31,15 +37,15 @@
    "date": "2026-11-20",
    "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.12.0",
    "pre": false
-  },
-  {
-   "tag": "bedrock-sdk-v1.1.3",
-   "date": "2026-11-20",
-   "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v1.1.3",
-   "pre": false
   }
  ],
  "anthropics/claude-code": [
+  {
+   "tag": "v2.1.332",
+   "date": "2026-11-25",
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.332",
+   "pre": false
+  },
   {
    "tag": "v2.1.331",
    "date": "2026-11-23",
@@ -51,15 +57,15 @@
    "date": "2026-11-20",
    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.330",
    "pre": false
-  },
-  {
-   "tag": "v2.1.329",
-   "date": "2026-11-19",
-   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.329",
-   "pre": false
   }
  ],
  "anthropics/claude-agent-sdk-python": [
+  {
+   "tag": "v0.2.189",
+   "date": "2026-11-25",
+   "url": "https://github.com/anthropics/claude-agent-sdk-python/releases/tag/v0.2.189",
+   "pre": false
+  },
   {
    "tag": "v0.2.188",
    "date": "2026-11-23",
@@ -70,12 +76,6 @@
    "tag": "v0.2.187",
    "date": "2026-11-20",
    "url": "https://github.com/anthropics/claude-agent-sdk-python/releases/tag/v0.2.187",
-   "pre": false
-  },
-  {
-   "tag": "v0.2.186",
-   "date": "2026-11-19",
-   "url": "https://github.com/anthropics/claude-agent-sdk-python/releases/tag/v0.2.186",
    "pre": false
   }
  ],
@@ -241,6 +241,12 @@
  ],
  "google/adk-python": [
   {
+   "tag": "v2.15.1",
+   "date": "2026-11-25",
+   "url": "https://github.com/google/adk-python/releases/tag/v2.15.1",
+   "pre": false
+  },
+  {
    "tag": "v2.15.0",
    "date": "2026-11-19",
    "url": "https://github.com/google/adk-python/releases/tag/v2.15.0",
@@ -250,12 +256,6 @@
    "tag": "v2.14.1",
    "date": "2026-11-12",
    "url": "https://github.com/google/adk-python/releases/tag/v2.14.1",
-   "pre": false
-  },
-  {
-   "tag": "v2.14.0",
-   "date": "2026-11-07",
-   "url": "https://github.com/google/adk-python/releases/tag/v2.14.0",
    "pre": false
   }
  ],
@@ -361,6 +361,12 @@
  ],
  "openai/openai-python": [
   {
+   "tag": "v3.59.0",
+   "date": "2026-11-24",
+   "url": "https://github.com/openai/openai-python/releases/tag/v3.59.0",
+   "pre": false
+  },
+  {
    "tag": "v3.58.0",
    "date": "2026-11-23",
    "url": "https://github.com/openai/openai-python/releases/tag/v3.58.0",
@@ -370,12 +376,6 @@
    "tag": "v3.57.0",
    "date": "2026-11-20",
    "url": "https://github.com/openai/openai-python/releases/tag/v3.57.0",
-   "pre": false
-  },
-  {
-   "tag": "v3.56.0",
-   "date": "2026-11-19",
-   "url": "https://github.com/openai/openai-python/releases/tag/v3.56.0",
    "pre": false
   }
  ],
@@ -441,6 +441,12 @@
  ],
  "huggingface/transformers": [
   {
+   "tag": "v5.24.1",
+   "date": "2026-11-24",
+   "url": "https://github.com/huggingface/transformers/releases/tag/v5.24.1",
+   "pre": false
+  },
+  {
    "tag": "v5.24.0",
    "date": "2026-11-21",
    "url": "https://github.com/huggingface/transformers/releases/tag/v5.24.0",
@@ -450,12 +456,6 @@
    "tag": "v5.23.0",
    "date": "2026-11-13",
    "url": "https://github.com/huggingface/transformers/releases/tag/v5.23.0",
-   "pre": false
-  },
-  {
-   "tag": "v5.22.2",
-   "date": "2026-11-06",
-   "url": "https://github.com/huggingface/transformers/releases/tag/v5.22.2",
    "pre": false
   }
  ],
