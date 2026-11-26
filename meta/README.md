@@ -17,7 +17,7 @@
 | [facebook/react](https://github.com/facebook/react) | [**v19.3.1**](https://github.com/react/react/releases/tag/v19.3.1) | 2026-10-14 | [v19.2.9](https://github.com/react/react/releases/tag/v19.2.9) · [v19.1.10](https://github.com/react/react/releases/tag/v19.1.10) |
 | [facebookresearch/faiss](https://github.com/facebookresearch/faiss) | [**v1.16.0**](https://github.com/facebookresearch/faiss/releases/tag/v1.16.0) | 2026-11-10 | [v1.15.1](https://github.com/facebookresearch/faiss/releases/tag/v1.15.1) · [v1.15.0](https://github.com/facebookresearch/faiss/releases/tag/v1.15.0) |
 
-<sub>Auto-updated 2026-11-25 from the GitHub API · 🧪 = pre-release</sub>
+<sub>Auto-updated 2026-11-26 from the GitHub API · 🧪 = pre-release</sub>
 <!-- releases:end -->
 
 ---

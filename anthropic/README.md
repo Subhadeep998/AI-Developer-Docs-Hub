@@ -19,7 +19,7 @@
 | [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) | [**v2.3.0**](https://github.com/modelcontextprotocol/python-sdk/releases/tag/v2.3.0) | 2026-10-02 | [v2.2.0](https://github.com/modelcontextprotocol/python-sdk/releases/tag/v2.2.0) · [v1.30.0](https://github.com/modelcontextprotocol/python-sdk/releases/tag/v1.30.0) |
 | [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) | [**v2.4.0**](https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/v2.4.0) | 2026-10-23 | [1.32.2](https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/1.32.2) · [@modelcontextprotocol/server@2.4.0](https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/%40modelcontextprotocol/server%402.4.0) |
 
-<sub>Auto-updated 2026-11-25 from the GitHub API · 🧪 = pre-release</sub>
+<sub>Auto-updated 2026-11-26 from the GitHub API · 🧪 = pre-release</sub>
 <!-- releases:end -->
 
 **Official changelogs** — [Claude Platform release notes](https://platform.claude.com/docs/en/release-notes/overview) · [Claude Code CHANGELOG](https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md) · [Claude apps release notes](https://support.claude.com/en/articles/12138966-release-notes)
