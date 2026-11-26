@@ -361,6 +361,12 @@
  ],
  "openai/openai-python": [
   {
+   "tag": "v3.60.0",
+   "date": "2026-11-26",
+   "url": "https://github.com/openai/openai-python/releases/tag/v3.60.0",
+   "pre": false
+  },
+  {
    "tag": "v3.59.0",
    "date": "2026-11-24",
    "url": "https://github.com/openai/openai-python/releases/tag/v3.59.0",
@@ -370,12 +376,6 @@
    "tag": "v3.58.0",
    "date": "2026-11-23",
    "url": "https://github.com/openai/openai-python/releases/tag/v3.58.0",
-   "pre": false
-  },
-  {
-   "tag": "v3.57.0",
-   "date": "2026-11-20",
-   "url": "https://github.com/openai/openai-python/releases/tag/v3.57.0",
    "pre": false
   }
  ],

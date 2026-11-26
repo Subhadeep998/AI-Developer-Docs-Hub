@@ -54,7 +54,7 @@
 
 | Project | Latest | Released | Earlier |
 |:--|:--|:--|:--|
-| [openai/openai-python](https://github.com/openai/openai-python) | [**v3.59.0**](https://github.com/openai/openai-python/releases/tag/v3.59.0) | 2026-11-24 | [v3.58.0](https://github.com/openai/openai-python/releases/tag/v3.58.0) · [v3.57.0](https://github.com/openai/openai-python/releases/tag/v3.57.0) |
+| [openai/openai-python](https://github.com/openai/openai-python) | [**v3.60.0**](https://github.com/openai/openai-python/releases/tag/v3.60.0) | 2026-11-26 | [v3.59.0](https://github.com/openai/openai-python/releases/tag/v3.59.0) · [v3.58.0](https://github.com/openai/openai-python/releases/tag/v3.58.0) |
 | [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | [**v0.26.0**](https://github.com/openai/openai-agents-python/releases/tag/v0.26.0) | 2026-11-24 | [v1.0.0-alpha.2](https://github.com/openai/openai-agents-python/releases/tag/v1.0.0-alpha.2) · [v1.0.0-alpha.1](https://github.com/openai/openai-agents-python/releases/tag/v1.0.0-alpha.1) |
 
 <sub>Auto-updated 2026-11-26 from the GitHub API · 🧪 = pre-release</sub>
