@@ -12,12 +12,12 @@
 | Project | Latest | Released | Earlier |
 |:--|:--|:--|:--|
 | [meta-llama/llama-models](https://github.com/meta-llama/llama-models) | [**v0.2.0**](https://github.com/meta-llama/llama-models/releases/tag/v0.2.0) | 2025-04-05 | [v0.1.4](https://github.com/meta-llama/llama-models/releases/tag/v0.1.4) · [v0.1.3](https://github.com/meta-llama/llama-models/releases/tag/v0.1.3) |
-| [meta-llama/llama-stack](https://github.com/meta-llama/llama-stack) | [**v1.4.2**](https://github.com/ogx-ai/ogx/releases/tag/v1.4.2) | 2026-10-30 | [v1.4.1](https://github.com/ogx-ai/ogx/releases/tag/v1.4.1) · [v1.5.0](https://github.com/ogx-ai/ogx/releases/tag/v1.5.0) |
+| [meta-llama/llama-stack](https://github.com/meta-llama/llama-stack) | [**v2.0.0**](https://github.com/ogx-ai/ogx/releases/tag/v2.0.0) | 2026-11-26 | [v1.4.2](https://github.com/ogx-ai/ogx/releases/tag/v1.4.2) · [v1.4.1](https://github.com/ogx-ai/ogx/releases/tag/v1.4.1) |
 | [pytorch/pytorch](https://github.com/pytorch/pytorch) | [**v2.15.0**](https://github.com/pytorch/pytorch/releases/tag/v2.15.0) | 2026-10-28 | [v2.14.1](https://github.com/pytorch/pytorch/releases/tag/v2.14.1) · [v2.14.0](https://github.com/pytorch/pytorch/releases/tag/v2.14.0) |
 | [facebook/react](https://github.com/facebook/react) | [**v19.3.1**](https://github.com/react/react/releases/tag/v19.3.1) | 2026-10-14 | [v19.2.9](https://github.com/react/react/releases/tag/v19.2.9) · [v19.1.10](https://github.com/react/react/releases/tag/v19.1.10) |
 | [facebookresearch/faiss](https://github.com/facebookresearch/faiss) | [**v1.16.0**](https://github.com/facebookresearch/faiss/releases/tag/v1.16.0) | 2026-11-10 | [v1.15.1](https://github.com/facebookresearch/faiss/releases/tag/v1.15.1) · [v1.15.0](https://github.com/facebookresearch/faiss/releases/tag/v1.15.0) |
 
-<sub>Auto-updated 2026-11-26 from the GitHub API · 🧪 = pre-release</sub>
+<sub>Auto-updated 2026-11-27 from the GitHub API · 🧪 = pre-release</sub>
 <!-- releases:end -->
 
 ---
