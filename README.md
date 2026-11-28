@@ -29,7 +29,7 @@
 | Released | Project | Version | Provider |
 |:--|:--|:--|:--|
 | 2026-11-26 | [openai/openai-python](https://github.com/openai/openai-python) | [**v3.60.0**](https://github.com/openai/openai-python/releases/tag/v3.60.0) | OpenAI |
-| 2026-11-26 | [ollama/ollama](https://github.com/ollama/ollama) | [**v0.40.19-rc0**](https://github.com/ollama/ollama/releases/tag/v0.40.19-rc0) | Open-source ecosystem |
+| 2026-11-26 | [ollama/ollama](https://github.com/ollama/ollama) | [**v0.40.19**](https://github.com/ollama/ollama/releases/tag/v0.40.19) | Open-source ecosystem |
 | 2026-11-26 | [meta-llama/llama-stack](https://github.com/meta-llama/llama-stack) | [**v2.0.0**](https://github.com/ogx-ai/ogx/releases/tag/v2.0.0) | Meta |
 | 2026-11-25 | [microsoft/vscode](https://github.com/microsoft/vscode) | [**1.148.0**](https://github.com/microsoft/vscode/releases/tag/1.148.0) | Microsoft |
 | 2026-11-25 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | [**cli==0.4.44**](https://github.com/langchain-ai/langgraph/releases/tag/cli%3D%3D0.4.44) | Open-source ecosystem |
